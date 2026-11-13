@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Request deletion of your Gotix 18 account and associated personal game data.">
+  <title>Delete Account | Gotix 18</title>
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; background: #f5f7f6; color: #1d2924; font: 16px/1.65 system-ui, -apple-system, Segoe UI, Arial, sans-serif; }
+    main { max-width: 720px; margin: 48px auto; padding: 32px; background: white; border-radius: 14px; box-shadow: 0 5px 28px #173b2610; }
+    h1 { color: #176b46; line-height: 1.25; }
+    h2 { margin-top: 30px; font-size: 1.2rem; }
+    a { color: #176b46; }
+    .button { display: inline-block; padding: 12px 18px; border-radius: 8px; background: #176b46; color: white; font-weight: 650; text-decoration: none; }
+    .note { background: #eef6f0; border-left: 4px solid #176b46; padding: 12px 16px; }
+    footer { border-top: 1px solid #dbe4dd; margin-top: 32px; padding-top: 16px; color: #526158; font-size: .9rem; }
+    @media (max-width: 760px) { main { margin: 12px; padding: 22px; } }
+  </style>
+</head>
+<body>
+<main>
+  <p><a href="index.html">← Gotix 18 Support</a></p>
+  <h1>Gotix 18 — Account Deletion Request</h1>
+  <p>Developer: <strong>Abhinav Shukla</strong></p>
+  <p>You can request deletion of your Gotix 18 player account and the personal game data associated with it. This page is for <strong>Gotix 18</strong>, not for deleting your Google account.</p>
+
+  <h2>How to request deletion</h2>
+  <ol>
+    <li>Use the email account associated with your Gotix 18 sign-in, if available.</li>
+    <li>Click the button below to compose an email to our support team.</li>
+    <li>Include your Gotix 18 player name or player ID, if known. Do not send passwords, OTPs, or identity documents.</li>
+    <li>Our support team will respond with any steps needed to verify account ownership and process your request.</li>
+  </ol>
+  <p><a class="button" href="mailto:gotix.support@gmail.com?subject=Gotix%2018%20-%20Account%20Deletion%20Request&amp;body=Hello%2C%0A%0AI%20request%20deletion%20of%20my%20Gotix%2018%20account%20and%20associated%20personal%20game%20data.%0A%0APlayer%20name%20or%20ID%20(if%20known)%3A%20%0ASign-in%20method%20(Google%20or%20Guest)%3A%20%0A%0AThank%20you.">Request account deletion by email</a></p>
+  <p>If the button does not open your email application, write directly to <a href="mailto:gotix.support@gmail.com">gotix.support@gmail.com</a> with the subject <strong>Gotix 18 — Account Deletion Request</strong>.</p>
+
+  <h2>Data covered by the request</h2>
+  <p>We aim to delete your Gotix 18 player profile and associated personal game statistics, such as matches played, wins, and losses. Account-linked multiplayer records will be deleted or de-identified where feasible. Some records may need to be retained where legally required or necessary for security and fraud prevention; any applicable retention will be explained in our response.</p>
+
+  <h2>Important information</h2>
+  <div class="note">
+    <p><strong>This page submits a request; it does not instantly delete an account.</strong> Deletion is completed only after the developer verifies the request and removes the relevant account and data. An in-app deletion option is planned but is not yet available.</p>
+    <p>Guest accounts may be difficult to identify after the app has been uninstalled or local identifiers have been lost. Please include any available player ID.</p>
+  </div>
+
+  <h2>Privacy</h2>
+  <p>See our <a href="privacy.html">Privacy Policy</a> for information about data handling.</p>
+  <footer>© 2026 Gotix 18 · Developed by Abhinav Shukla · <a href="mailto:gotix.support@gmail.com">Support</a></footer>
+</main>
+</body>
+</html>
